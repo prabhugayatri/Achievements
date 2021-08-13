@@ -1,0 +1,33 @@
+* 
+{
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium';
+    height: auto;
+    width: auto;
+    overflow: auto;
+}
+
+body {
+    background-color: #C0C0C0;
+     position:relative;
+    top:50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+  }
+ 
+  h1 {
+    color: #000000;
+    text-align:center;
+    text-decoration-line: underline;
+  }
+  p {    
+    color:#000000;
+    font-size: 110%;
+  }
+  section {
+      text-align:center;
+      font-size:120%;
+  }
