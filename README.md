@@ -1,2 +1,2 @@
 # Candidate: Gayatri Prabhu
-You can check out my accomplishments, certifications here: https://prabhugayatri.github.io/Achievements/folder1/
+You can check out my accomplishments and certifications here: [Achievements](https://prabhugayatri.github.io/Achievements/folder1/)
